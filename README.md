@@ -131,6 +131,3 @@ To keep your ESP32 + TFT module safe and portable, you can design a custom 3D-pr
 ## 🧾 License
 
 This guide and documentation follow the MIT License in alignment with the original WiFi Marauder project.
-
----
-# WIFI-Marauder
