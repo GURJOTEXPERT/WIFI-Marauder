@@ -100,8 +100,6 @@ Parallel 8-bit TFT displays (like the 2.4" Red Shields for Arduino UNO with pins
 
 ## 📸 Compatible Display (Tested)
 
-![REES52 TFT SPI Display](attachments/rees52-2.8-tft.jpg)
-
 Tested & confirmed working with WiFi Marauder. Connects via SPI. Includes touch functionality.
 
 Amazon Link: [https://amzn.in/d/eWJFB6g](https://amzn.in/d/eWJFB6g)
