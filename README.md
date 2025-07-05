@@ -15,7 +15,7 @@ Ideal for pentesters, CTF players, or wireless hobbyists, this project is plug-a
 
 Let’s dive in!
 
-
+![20250614_184801](https://github.com/user-attachments/assets/2a79760d-7cfc-4f0c-a635-e2f206e1724d)
 
 This guide helps you install and assemble the **WiFi Marauder firmware** on your **ESP32 Dev Board** using a **2.8" SPI TFT LCD Display with Touch (ILI9341)**.
 
@@ -119,7 +119,7 @@ To keep your ESP32 + TFT module safe and portable, you can design a custom 3D-pr
 * 🛒 In my case, I ordered the 3D-printed case from [Robu.in](https://robu.in/), which offers printing services and enclosure design assistance for hobby electronics.
 
 ---
-![20250614_184743](https://github.com/user-attachments/assets/9b550b12-d56b-475d-8ede-34b08bb5439a)
+![20250614_184730](https://github.com/user-attachments/assets/6b68f21d-66f4-44ee-9e14-efb92f056f26)
 
 ## 🙌 Credits
 
