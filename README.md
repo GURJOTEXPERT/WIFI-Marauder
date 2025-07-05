@@ -76,8 +76,6 @@ This guide helps you install and assemble the **WiFi Marauder firmware** on your
 
 > These offsets apply to most ESP32 Dev Boards like NodeMCU-32S, Wemos D1 Mini, LDDB, etc.
 
-![Marauder Flash Table](attachments/marauder-flash-addresses.png)
-
 ---
 
 ## 🔧 Drivers for ESP32
